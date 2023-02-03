@@ -1,3 +1,13 @@
+html {
+    font-size: 30px;
+    color: ivory;
+}
+article {
+    font-size: 12px;
+}
+p{
+    font-size: 1.5rem;
+}
 #div_1 {
     background-color: blueviolet;
     height: 2in;
@@ -27,4 +37,19 @@ width: 60pt;
     background-color: blue;
     height: 2in;
     width: 1cm;
+}
+#bottom_1 {
+height: 20em;
+width: 20rem;
+background-color: black;
+}
+#bottom_2 {
+    height: 30vh;
+width: 50vw;
+background-color: plum;
+}
+#bottom_3 {
+    height: 50px;
+width: 50%;
+background-color: red;
 }
