@@ -1,0 +1,30 @@
+#div_1 {
+    background-color: blueviolet;
+    height: 2in;
+    width: 20mm;
+}
+#div_2{
+    background: aqua;
+    height: 10px;
+    width: 30pc;
+}
+#div_3 {
+background-color: fuchsia;
+height: 5px;
+width: 60pt;
+}
+#div_4 {
+    background-color: darkgreen;
+    height: 11mm;
+    width: 10pc;
+}
+#div_5 {
+    background-color: darkgoldenrod;
+    height: 50px;
+    width: 20px;
+}
+#closing {
+    background-color: blue;
+    height: 2in;
+    width: 1cm;
+}
